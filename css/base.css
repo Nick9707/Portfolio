@@ -157,7 +157,7 @@ a:focus {
 .frame__content {
 	/*line-height: 0.8;*/
 	/*pointer-events: none;*/
-	margin-top: 13vh;
+	/*margin-top: 13vh;*/
 	/*font-size: 40vw;*/
 	font-family: essonnes-display, serif;
 	/*mix-blend-mode: soft-light;*/
@@ -240,6 +240,7 @@ a:focus {
 	.frame__content {
 		grid-area: content;
 		margin: 0;
+		margin-bottom: 10%;
 	}
 	.frame a {
 		pointer-events: auto;
